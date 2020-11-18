@@ -1,6 +1,6 @@
 # TOC
 
-Practicals related to Theory Of Computation.
+Code for practical problems related to Theory Of Computation.
 
 ## List of Practicals
 - [x] Check whether a string of parenthesis is balanced or not
